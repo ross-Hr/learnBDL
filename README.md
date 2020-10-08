@@ -20,6 +20,8 @@ https://ermongroup.github.io/cs228-notes/   课程
 
 https://www.cs.princeton.edu/courses/archive/spring09/cos513/   概率模型课程
 
+http://deepbayes.ru/2019/#materials  视频教程 在  youtube
+
 
 
 //这三个会议并称为数据库方向的三大顶级会议 
